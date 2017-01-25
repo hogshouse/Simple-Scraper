@@ -10,7 +10,7 @@
 
 3. You can check the previous steps my running `node -v` and `npm -v` from the terminal window (you guessed it the `-v` flag shows what version you have installed)
 
-4. Get into the folder in Terminal: hard to advice on this ls shows the files in your current directory and cd stand for change directory so putting the scraper folder on your desktop then going cd desktop to get to desktop and ls to see whats on there and then cd scraper.
+4. Get into the folder in Terminal: hard to advice on this `ls` shows the files in your current directory and `cd` stands for change directory so putting the scraper folder on your desktop then going `cd desktop` to get to desktop and `ls` to see whats on there and then `cd scraper`.
 
 5. Once in run `npm install` to install the dev dependencies (cheerio + request) You should see a new node_modules folder be created in scraper.
 

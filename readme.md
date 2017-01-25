@@ -12,8 +12,6 @@
 
 4. Get into the folder in Terminal: hard to advice on this `ls` shows the files in your current directory and `cd` stands for change directory so putting the scraper folder on your desktop then going `cd desktop` to get to desktop and `ls` to see whats on there and then `cd scraper`.
 
-5. Once in run `npm install` to install the dev dependencies (cheerio + request) You should see a new node_modules folder be created in scraper.
+5. Get a decent text editor (I recomend https://atom.io/)
 
-6. Get a decent text editor (I recomend https://atom.io/)
-
-7. Open up `hog.js` in atom and start having some fun, first replace the url with the page of an actor you feel is more of a hog than Arnold, saving the file and then running node `hog.js` again.
+6. Open up `hog.js` in atom and start having some fun, first replace the url with the page of an actor you feel is more of a hog than Arnold, saving the file and then running node `hog.js` again.

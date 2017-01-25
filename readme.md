@@ -14,8 +14,6 @@
 
 5. Once in run `npm install` to install the dev dependencies (cheerio + request) You should see a new node_modules folder be created in scraper.
 
-6. Simply run `node hog.js` to run the hog script (by default it will go to Arnold Schwarzenegger's IMDB page and tell you he is the biggest hog. Then create a `log.txt` file with his name in it.)
+6. Get a decent text editor (I recomend https://atom.io/)
 
-7. Get a decent text editor (I recomend https://atom.io/)
-
-8. Open up `hog.js` in atom and start having some fun, first replace the url with the page of an actor you feel is more of a hog than Arnold, saving the file and then running node `hog.js` again.
+7. Open up `hog.js` in atom and start having some fun, first replace the url with the page of an actor you feel is more of a hog than Arnold, saving the file and then running node `hog.js` again.
